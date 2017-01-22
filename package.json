@@ -1,0 +1,14 @@
+{
+  "name": "uploads",
+  "title": "Uploads",
+  "version": "1",
+  "homepage": "",
+  "author": "",
+  "license": {
+    "type": "MIT",
+    "url": ""
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
